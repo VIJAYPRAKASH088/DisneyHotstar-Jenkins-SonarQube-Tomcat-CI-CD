@@ -1,4 +1,4 @@
-# DisneyHotstar-Jenkins-SonarQube-Tomcat-CI
+# DisneyHotstar-Jenkins-SonarQube-Tomcat-CI/CD
 End-to-End DevOps Project | Jenkins CI/CD | SonarQube | AWS EC2 &amp; S3 | Apache Tomcat Deployment | Disney+ Hotstar Clone
 An end-to-end DevOps project demonstrating CI/CD automation for a Java-based Disney+ Hotstar Clone application using Jenkins, Maven, SonarQube, AWS EC2 Instances and  S3 Bucket, and Apache Tomcat.
 
